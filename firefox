@@ -1,0 +1,5 @@
+browser.tabs.remote.autostart                           boolean     true
+browser.tabs.remote.force-enable                        boolean     true
+dom.ipc.processCount                                    integer     7
+security.insecure_field_warning.contextual.enabled      boolean     false
+signon.autofillForms.http                               boolean     true
