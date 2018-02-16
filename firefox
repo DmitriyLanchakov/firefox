@@ -3,3 +3,7 @@ browser.tabs.remote.force-enable                        boolean     true
 dom.ipc.processCount                                    integer     7
 security.insecure_field_warning.contextual.enabled      boolean     false
 signon.autofillForms.http                               boolean     true
+network.http.pipelining true
+network.http.pipelining.aggressive  true
+network.http.pipelining.maxrequests 8
+network.http.pipelining.ssl true
